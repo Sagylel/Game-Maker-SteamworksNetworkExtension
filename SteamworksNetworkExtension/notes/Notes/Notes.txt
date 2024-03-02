@@ -1,0 +1,7 @@
+sometimes the client starts the game faster than the server
+host migration
+
+lag compensation:
+client can move the player in their client but they also send the input to server
+and server sends back the predicted position then the client checks if the value between predicted
+and the actual position is too big the client changes its positions with the predicted value.

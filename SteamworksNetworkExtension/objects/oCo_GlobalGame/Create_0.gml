@@ -1,0 +1,1 @@
+global.player_object_asset = asset_get_index("oPlayer");

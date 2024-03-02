@@ -1,0 +1,1 @@
+NetworkCallFunction(-1, oCo_Lobby, "LobbyStartGame");
